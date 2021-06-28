@@ -4,10 +4,7 @@
     <list default="true" id="a573db4e-9280-4a8e-b992-affeb573bf13" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/avszoom/concurrencyapp/experiments/BlockingQueueIface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/avszoom/concurrencyapp/experiments/JavaBlockingQueueExperiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/avszoom/concurrencyapp/models/ExperimentResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/avszoom/concurrencyapp/models/TimeStampProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../image-app/image-uploader-service/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../image-app/image-uploader-service/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../image-app/image-uploader-service/src/main/java/com/avszoom/imageuploaderservice/controllers/ImageUploadController.java" afterDir="false" />
@@ -22,6 +19,8 @@
       <change beforePath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/health/ConfigurationHealthCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/health/ConfigurationHealthCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/resources/ControlResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Covid/src/main/java/com/AviPritEnterprise/resources/ControlResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Beverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/Espresso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/main/java/com/avszoom/DecoratorPattern/HouseBlend.java" afterDir="false" />
@@ -120,10 +119,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/avszoom/concurrencyapp/experiments/JavaBlockingQueueExperiment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
+            <state relative-caret-position="165">
               <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -136,6 +135,15 @@
                 <element signature="e#818#819#0" expanded="true" />
                 <element signature="e#866#867#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -200,7 +208,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -211,6 +219,7 @@
         <option value="$PROJECT_DIR$/src/com/avszoom/concurrencyapp/experiments/BlockingQueueIface.java" />
         <option value="$PROJECT_DIR$/src/com/avszoom/concurrencyapp/Driver.java" />
         <option value="$PROJECT_DIR$/src/com/avszoom/concurrencyapp/experiments/JavaBlockingQueueExperiment.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -238,31 +247,6 @@
               <item name="concurrencyApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrencyApp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="concurrencyApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrencyApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrencyApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrencyApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrencyapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrencyApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrencyApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrencyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="experiments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrencyApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrencyApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrencyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -272,6 +256,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -333,12 +318,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32920793" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32920793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32920793" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -415,7 +400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/avszoom/concurrencyapp/experiments/JavaBlockingQueueExperiment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state relative-caret-position="165">
           <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -428,6 +413,13 @@
             <element signature="e#818#819#0" expanded="true" />
             <element signature="e#866#867#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
